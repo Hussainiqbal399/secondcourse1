@@ -1,0 +1,177 @@
+body{
+    background-color: whitesmoke;
+}
+#rightmenu ul li{
+    list-style: none;
+    margin: 0px 30px;
+    float: left;
+}
+#leftmenu{
+    margin-left:20px ;
+    width: 20%;
+}
+#rightmenu{
+    width: 80%;
+}
+#h3{
+    margin-left:20px ; 
+}
+
+#rightmenu ul{
+    float: right;
+}
+
+#whole{
+    display: flex;
+    width: 100%;
+}
+#btn{
+    margin: 0px 2px;
+    border-radius: 50px;
+
+}
+#span{
+    color: green;
+    font-size: 25px;
+}
+#undrline{
+    border-bottom: 2px solid green;
+}
+#input{
+    height: 30px;
+    width: 80%;
+position: relative;
+bottom: 15px;
+}
+#div1{
+    margin-left: 20px;
+    width: 30%;
+    border-right: 1px solid black;
+}
+#div2{
+    position: relative;
+    bottom: 20px;
+}
+#div3{
+    position: relative;
+    bottom: 40px;
+}
+#div4{
+    position: relative;
+    bottom: 60px;
+}
+#search{
+    position: relative;
+    bottom: 60px;
+}
+#patient{
+    position: relative;
+    bottom: 40px;
+}
+#div5{
+    position: relative;
+    bottom: 40px;
+}  
+#Provider{
+    position: relative;
+    bottom: 35px;
+}
+#div6{
+position: relative;
+bottom: 50px;
+}
+
+#wholeleft{
+    width: 70%;
+}
+#wholediv{
+    display: flex;
+}
+#span2{
+    color: green ;
+}
+#sort{
+    height: 30px;
+    position: relative;
+    left: 72%;
+    bottom: 30px;
+}
+#skt{
+    margin-left: 20px;
+}
+#map{
+    color: green;  
+}
+#button{
+    width: 12%;
+    border-radius: 50px;
+}
+#first{
+    background-color: white;
+    width: 900px;
+    height: 190px;
+    margin-left: 20px;
+}
+#call{
+    margin-left: 75%;
+    position: relative;
+    bottom: 60%;
+}
+#num{
+    margin-left: 75%;
+    position: relative;
+    bottom: 66%;
+    color:green;
+}
+#skht{
+    margin-top: 25px;
+    margin-left: 20px;
+}
+#dada{
+    display: flex;
+    margin-top: 60px;
+}
+#pan{
+    position: relative;
+    left: 7%;
+}
+#bap{
+width: 50%;
+position: relative;
+left: 15%;
+}
+#bata{
+    width: 20%;
+    /* margin-left: 500px; */
+}
+#pota{
+    width: 20%;
+    /* margin-left: 300px; */
+}
+#nawasa{
+    width: 20%;
+    /* margin-right: 30px; */
+}
+#nawasa i{
+    font-size: 40px;
+    margin: 0px 10px;
+    color: brown;
+}
+#last{
+    display: flex;
+    width: 47%;
+    position: relative;
+    left: 15%;
+}
+#ali{
+    display: flex;
+    position: relative;
+    left: 70%;
+    margin-top: 15px;
+}
+#ali h5{
+    margin: 0px 30px;
+}
+#geo{
+    border: 1px solid black;
+}
